@@ -1,0 +1,4 @@
+Total calibration value for example is 142
+Total calibration value for real input is 53386
+Total calibration value for example is 281
+Total calibration value for real input is 53312
