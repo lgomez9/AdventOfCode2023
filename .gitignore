@@ -1,2 +1,3 @@
-# Input files for advent of code
-*input.txt
+# Input and output files for advent of code
+*input*.txt
+*output.txt
